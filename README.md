@@ -1,3 +1,5 @@
+![81DE6871-0650-475F-93CC-75C01F9DCD9A](https://github.com/rizkidarmawan21/Clone-Grab-ReactNative/assets/80609220/f49a661b-60e9-4509-a98d-571ae091cf0b)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
